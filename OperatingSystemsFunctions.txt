@@ -1,0 +1,2 @@
+#Operating System Functions
+### The operating system serves some of the main purposes of a PC including managing devices, allowing the user to interact with the PC, and helping execute programs. The OS makes sure the PC is running properly and manages input and output. Operating systems can control multiple programs at once and are necessary when booting software.  
