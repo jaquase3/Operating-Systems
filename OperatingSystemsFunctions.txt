@@ -6,4 +6,4 @@
 ### As noted previously the OS helps manage the input, output, and some memory functions. 
 -Input would be devices similar to keyboards, and mice
 -Outputs would be similar to monitors and audio devices
-Memory could be anywhere from sending data to RAM/DDrives
+-Memory could be anywhere from sending data to RAM/DDrives
